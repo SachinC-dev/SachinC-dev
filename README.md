@@ -13,6 +13,8 @@ About me:
 ### Programming languages that I know
 #### Master level
 - Python
+#### Intermediate
+- Shell
 #### Basics
 - C and C++
 - Java
